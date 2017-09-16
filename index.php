@@ -10,7 +10,7 @@
 	<body>
 		<header>
 			<h1>Group 9</h1>
-			<div>The portfolios</div>
+			<div>Student Profiles</div>
 		</header>
 		<nav class="main">
 			<ul>
@@ -51,7 +51,7 @@
 		</div>
 
 		<footer>
-			<div>This Web page, by Group 9</div>
+			<div>This web site is coded by Group 9</div>
 		</footer>
 	</div>
 	
