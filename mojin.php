@@ -13,6 +13,6 @@
 		<h2>About me</h2>
 		<p>My name is Mojin Yu. I am currently an undergraduate student at the University of Rochester, majoring in Digital Media Studies and Psychology. This website is a culmination of my work done in DMS 103.<br>Contact: myu20@u.rochester.edu</p>
 
-		<?PHP include "body.php"; ?>
+		<?PHP include "mojin_body.php"; ?>
 	</body>
 </html>
