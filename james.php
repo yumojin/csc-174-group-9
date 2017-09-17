@@ -44,7 +44,7 @@
                                     <li>Communicate with the branch offices in Tianjin, Dalian and Shanghai.</li>
                               </ul>
 
-                        <h2>Skills</h2>
+                  <h2>Skills</h2>
                               <ul>
                                     <li>Microsoft Office: Word, Excel, Powerpoint</li>
                                     <li>Performing data analysis using Matlab, Excel, R language</li>
