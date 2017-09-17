@@ -7,7 +7,7 @@
 
 	<body>
 		<header>
-			<h1>Hello, my name is Mojin</h1>
+			<h1>Mojin Yu</h1>
 		</header>
 
 		<nav class="menu">
@@ -62,6 +62,10 @@
 			<li>ArcGIS online</li>
 		</ul>
 		</article>
+
+		<footer>
+			<p>This web site is created by Group 9 for CSC 174</p>
+		</footer>
 
 	</body>
 </html>

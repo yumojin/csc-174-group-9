@@ -76,7 +76,11 @@
                                     <li>· Fluency in English; Native speaker in Mandarin Chinese; Good command of Japanese</li>
                               </ul>
                         
-            </article> 
+            </article>
+            
+            <footer>
+                  <p>This web site is created by Group 9 for CSC 174</p>
+            </footer>
             
       </body>
       
