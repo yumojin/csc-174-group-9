@@ -57,7 +57,7 @@
 		</article>
 
 		<footer>
-			<div>This web site is coded by Group 9</div>
+			<p>This web site is created by Group 9 for CSC 174</p>
 		</footer>
 	
 	</body>
