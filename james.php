@@ -15,15 +15,44 @@
             
             <article>
                   <h2>Education</h2>
-                        <p>University of Rochester, Class of 2018, Bachelor of Arts, Computer Science</p>
+                        <h3>University of Rochester</h3>
+                        <ul>
+                              <li>Class of 2018</li>
+                              <li>Bachelor of Arts, International Relations && Computer Science </li>
+                        </ul>
                   
-                  <h2>Personal Information</h2>  
-                        <p>My name is Zhengliang Jiang. I was born and grew up in China. I am a senior majoring in computer science.I have taken classes from different computer science major tracks, and found that the track with the focus on human computer interaction interests me the most. The HCI track includes many web programming courses. I took CSC 170 to see how do I feel about web programming  during my sophomore summer and found it to be extremely fascinating. Therefore I decided to follow my interest and the track to take CSC 174 to continue studying web developing. I'm interested in many things such as playing soccer, traveling, and watching movies. I’ve been a soccer fan since I was a kid. I also played varsity soccer in high school and enjoyed it. </p> 
 
                   <h2>Experience</h2>
-                        <h3>Ping An Securities:</h3>
-                        <p>Attended a selective training program organized by the Ping An Securities and received Equity ownership and structure lectures from my assigned mentor.
-                        Analyzed the structure of some client companies to determine the appropriate ways of listing.Guided by my mentor to employ financial statements and other operational information of a particular enterprise to predict its future performance </p>
+                        <h3>Ping An Securities</h3>
+                              <ul>
+                                    <li>Attended a selective training program organized by the Ping An Securities and received Equity ownership and structure lectures from my assigned mentor.</li>
+                                    <li>nalyzed the structure of some client companies to determine the appropriate ways of listing.</li>
+                                    <li>Guided by my mentor to employ financial statements and other operational information of a particular enterprise to predict its future performance</li>
+                              </ul>
+
+                        <h3>Tencent</h3>
+                              <ul>
+                                    <li>Conduct an integral research in China's pharmaceutical E-commerce market.</li>
+                                    <li>Assist in Tencent Makerspace Project (collaborate with Peking University team)</li>
+                                    <li>Research in Tencent’s enterprise culture, and receive guest from government department.</li>
+                              </ul>
+
+                        <h3>GE (General Electric) Healthcare China </h3>
+                              <ul>
+                                    <li>Manage Concur system (an electronic travel reservation and expense system). Work includes entering and managing Concur data, updating tracking status, system maintenance, providing consultation services.</li>
+                                    <li>Arrange arrival inspection notice for medical devices.</li>
+                                    <li>Communicate with the branch offices in Tianjin, Dalian and Shanghai.</li>
+                              </ul>
+
+                        <h2>Skills</h2>
+                              <ul>
+                                    <li>Microsoft Office: Word, Excel, Powerpoint</li>
+                                    <li>Performing data analysis using Matlab, Excel, R language</li>
+                                    <li>Programming in Java, C</li>
+                                    <li>Mobile app development using Android Studio</li>
+                                    <li>· Fluency in English; Native speaker in Mandarin Chinese; Good command of Japanese</li>
+                              </ul>
+                        
             </article> 
             
       </body>
