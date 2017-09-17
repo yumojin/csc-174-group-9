@@ -5,8 +5,10 @@
 		<title>Mojin Yu</title>
 		<link rel="stylesheet" type="text/css" href="css/styles.css">
 	</head>
-
+	
+	
 	<body>
+	<div class="container">
 		<header>
 			<h1>Mojin Yu</h1>
 		</header>
@@ -67,6 +69,6 @@
 		<footer>
 			<p>This web site is created by Group 9 for CSC 174</p>
 		</footer>
-
+	</div><!--.container-->
 	</body>
 </html>
