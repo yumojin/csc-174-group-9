@@ -38,6 +38,9 @@
             </nav>
             
             <article>
+                  <h2>About Me</h2>
+				<p>My name is Zhengliang. I was born and raised in China. I am currently studying computer science major with an emphasis on human computer interaction at the University of Rochester as a senior. After graduation, I plan to go to a graduate school to pursuit a higher degree.</p>
+             
                   <h2>Education</h2>
                         <h3>University of Rochester</h3>
                         <ul>
@@ -45,7 +48,7 @@
                               <li>Bachelor of Arts, International Relations && Computer Science </li>
                         </ul>
                   
-
+                  
                   <h2>Experience</h2>
                         <h3>Ping An Securities</h3>
                               <ul>
