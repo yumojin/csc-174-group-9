@@ -13,7 +13,7 @@
 
 		<nav class="main">
 			<ul>
-				<li><a href="james.php">James</a></li>
+				<li><a href="zhengliang.php">Zhengliang</a></li>
 				<li><a href="mojin.php">Mojin</a></li>
 				<li><a href="sibel.php">Sibel</a></li>
 			</ul>
@@ -23,10 +23,10 @@
 
 		<h2>Introducing our group members</h2>
 
-		<h3>James</h3>
+		<h3>Zhengliang</h3>
 		
 		<p>My name is Zhengliang Jiang. I was born and grew up in China. I am a senior majoring in computer science.</p>
-		<a href="james.php"> Read More...</a>
+		<a href="zhengliang.php"> Read More...</a>
 
 
 		<h3>Mojin</h3>
