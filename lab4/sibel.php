@@ -9,6 +9,7 @@
 	</head>
 
     <body>
+	    <div class="container">
 		<header>
 			<h1>Sibel Spahija</h1>
 		</header>
@@ -100,7 +101,7 @@
 		<footer>
 			<p>This web site is created by Group 9 for CSC 174</p>
 		</footer>
-
+	</div><!--.container-->
 	</body>
 
 </html>
