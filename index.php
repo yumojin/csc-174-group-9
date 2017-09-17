@@ -23,7 +23,6 @@
 		<div class="container">
 
 		<div class="content">
-		<article>
 
 		<h2>Introducing our group members</h2>
 
@@ -45,8 +44,6 @@
 		<p>Pursuing a B.S. in Business with Finance and Accounting Concentration... </p>
 
 		<a href="sibel.php"> Read More...</a>
-
-		</article>
 
 		</div>
 

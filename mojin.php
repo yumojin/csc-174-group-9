@@ -7,22 +7,31 @@
 	<body>
 		<header>
 			<h1>Hello, my name is Mojin</h1>
-			<div>These are my works</div>
 		</header>
 
 		<h2>About me</h2>
-		<p>My name is Mojin Yu. I am currently an undergraduate student at the University of Rochester, majoring in Digital Media Studies and Psychology. This website is a culmination of my work done in DMS 103.<br>Contact: myu20@u.rochester.edu</p>
+		<p>My name is Mojin Yu. I am currently an undergraduate student at the University of Rochester, majoring in Digital Media Studies and Psychology. <br>Contact: myu20@u.rochester.edu</p>
 
-		<h3>Project: Modern Homesickness</h3>
+		<h2>Skills and Abilities</h2>
 
-		<p>This project is an interactive animation created from 61 still 
-		frames. Each frame combines real-life photography and a 
-		virtual-environment background.<br>The centerpiece of this project is a teddy bear. To create the rotation effect, the doll was placed on a rotatable platform, then Project: Modern Homesicknessdifferent angles during its 360-degree rotation were captured by a camera.<br>Placed in the back is a series of screenshots of text messages between a daughter and a mother. To create a fuller impression,  this project also contains a background sound effect of smartphone notifications.</p>
+		<ul>
+			<li>Adobe Photoshop, Illustrator and InDesign</li>
+			<li>Python, HTML, CSS and JavaScript</li>
+			<li>Audio editing software (Pro Tools and Garage Band)</li>
+			<li>Video editing software (Final Cut Pro and Adobe Premiere)</li>
+			<li>Website building platforms (Weebly, Wix and WordPress</li>
+			<li>ArcGIS online</li>
+		</ul>
 
-		<p>Personal comments: Texting and teddy bear are both something that helps me when I feel homesick. Although serving similar purposes, these are two very different ways – perhaps they also carry different kinds of emotions. So I thought I could put them together as an attempt to combine the complex emotions and see what homesickness “looks like”.</p>
+		<h2>Work Experiences</h2>
+		<h3>RESEARCH ASSISTANT | UNIVERSITY OF ROCHESTER | 2017 JUL - SEP</h3>
+		<p>Job responsibilities include: doing research and collecting historical data; mapping research findings using ArcGIS online; designing posters and map print layout.</p>
+
+		<h3>INTERN | HOUGHTON STREET MEDIA | 2016 JUN - AUG</h3>
+		<p>Job responsibilities include: editing TV Show Positioning documents; organizing project schedules; taking conference notes and writing summaries; translating English documents and business emails; making copies; running errands.</p>
 
 
-		<h3>Project: Adopt, Don't Shop</h3>
+		<h2>Graphic Design Project: Adopt, Don't Shop</h2>
 
 		<p>These poster designs aim to promote the idea of pet adoption from animal rescues as a substitution of purchasing from breeders, pet stores, etc. The posters consist of various types of elements: imagery of animals, abstract shapes and slogan text “Adopt. Don’t shop”. Image elements are either from online resources or created using Adobe Illustrator. The main themes and structures of the three designs are kept consistent so that they can work together and leave the audience a stronger impression.</p>
 
