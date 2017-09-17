@@ -3,6 +3,7 @@
 	<head>
 		<meta charset="utf-8">
 		<title>Group 9</title>
+		<link rel="stylesheet" type="text/css" href="css/navigation.css">
 	</head>
 
 	<body>
