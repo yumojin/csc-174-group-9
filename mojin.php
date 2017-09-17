@@ -3,7 +3,7 @@
 	<head>
 		<meta charset="utf-8">
 		<title>Mojin Yu</title>
-		<link rel="stylesheet" type="text/css" href="css/navigation.css">
+		<link rel="stylesheet" type="text/css" href="css/styles.css">
 	</head>
 
 	<body>

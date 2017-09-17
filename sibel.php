@@ -5,7 +5,7 @@
 	<head>
 		<meta charset="utf-8">
 		<title>Sibel Spahija</title>
-		<link rel="stylesheet" type="text/css" href="css/navigation.css">
+		<link rel="stylesheet" type="text/css" href="css/styles.css">
 	</head>
 
     <body>
