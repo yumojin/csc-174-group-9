@@ -9,6 +9,7 @@
       </head>
 
       <body>
+	    <div class="container">
             
             <header>
               <h1>Zhengliang Jiang</h1>    
@@ -85,7 +86,7 @@
             <footer>
                   <p>This web site is created by Group 9 for CSC 174</p>
             </footer>
-            
+        </div><!--.container-->    
       </body>
       
 </html>
