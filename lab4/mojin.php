@@ -37,10 +37,10 @@
 		<article>
 
 		<h2>About Me</h2>
-		<p>My name is Mojin Yu. I am currently an undergraduate student at the University of Rochester, majoring in Digital Media Studies and Psychology. <br>Contact: myu20@u.rochester.edu</p>
+		<p>My name is Mojin Yu. I am currently an undergraduate student at the University of Rochester, majoring in Digital Media Studies and Psychology. I have great passion in art, music and new media. Currenly I'm working for the History Department as a reserach assitent. <br>Contact: myu20@u.rochester.edu</p>
 
 		<h2>Work Experiences</h2>
-		<h3>RESEARCH ASSISTANT | UNIVERSITY OF ROCHESTER | 2017 JUL - SEP</h3>
+		<h3>SUMMER PROGRAM ASSISTANT | UNIVERSITY OF ROCHESTER | 2017 JUL - SEP</h3>
 		<p>Job responsibilities include: doing research and collecting historical data; mapping research findings using ArcGIS online; designing posters and map print layout.</p>
 
 		<h3>INTERN | HOUGHTON STREET MEDIA | 2016 JUN - AUG</h3>
