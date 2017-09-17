@@ -19,13 +19,7 @@
 			</ul>
 		</nav>
 
-<<<<<<< HEAD
 		<article>
-=======
-		<div class="container">
-
-		<div class="content">
->>>>>>> 0a65a551feceed9678d78b1d5cd47ea08e633fc3
 
 		<h2>Introducing our group members</h2>
 
@@ -45,12 +39,7 @@
 		
 		<p>Pursuing a B.S. in Business with Finance and Accounting Concentration... </p>
 		<a href="sibel.php"> Read More...</a>
-
-<<<<<<< HEAD
 		</article>
-=======
-		</div>
->>>>>>> 0a65a551feceed9678d78b1d5cd47ea08e633fc3
 
 		<footer>
 			<div>This web site is coded by Group 9</div>
