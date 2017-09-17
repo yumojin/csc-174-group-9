@@ -9,7 +9,7 @@
 			<h1>Hello, my name is Mojin</h1>
 		</header>
 
-		<h2>About me</h2>
+		<h2>About Me</h2>
 		<p>My name is Mojin Yu. I am currently an undergraduate student at the University of Rochester, majoring in Digital Media Studies and Psychology. <br>Contact: myu20@u.rochester.edu</p>
 
 		<h2>Work Experiences</h2>
