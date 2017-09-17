@@ -3,11 +3,6 @@
       navigation
  ********************** */
 
-.container{
-		margin:0 auto;
-		width:80%;
-}
-
 .menu li { 
 	border: 1px solid black;
 	display: inline-block;
@@ -26,6 +21,7 @@
 .menu a{
 	color: black;
 	display: block;
+	text-decoration: none;
 	padding-top: 5px;
 	padding-bottom: 5px;
 	padding-left: 20px;
@@ -44,7 +40,11 @@ a:hover{
 .menu li a.current{
    color: white;
    background: plum;
-}	
+}
+
+/* ********************
+      Index Page Layout
+ ********************** */
 
 .zhengliang{
 
@@ -85,6 +85,15 @@ a:hover{
         width: 80%;
     }
 }
+
+/* ********************
+      General/Global
+ ********************** */
+
+.container{
+		margin:0 auto;
+		width:80%;
+	}
 
 body{
 		background-color: #FAEBD7;
