@@ -4,10 +4,36 @@
 		<meta charset="utf-8">
 		<title>Mojin Yu</title>
 	</head>
+
 	<body>
 		<header>
 			<h1>Hello, my name is Mojin</h1>
 		</header>
+
+		<nav class="menu">
+
+     	<ul>
+            <li>
+                  <a href="index.php">Home</a>  
+            </li>
+
+            <li>
+                  <a href="zhengliang.php">Zhengliang</a>
+            </li>
+
+            <li>
+                  <a class="current" href="mojin.php">Mojin</a> 
+            </li>
+
+            <li>
+                  <a href="sibel.php">Sibel</a>
+            </li>
+
+     	</ul>
+
+   		</nav>
+
+		<article>
 
 		<h2>About Me</h2>
 		<p>My name is Mojin Yu. I am currently an undergraduate student at the University of Rochester, majoring in Digital Media Studies and Psychology. <br>Contact: myu20@u.rochester.edu</p>
@@ -35,6 +61,7 @@
 			<li>Website building platforms (Weebly, Wix and WordPress</li>
 			<li>ArcGIS online</li>
 		</ul>
+		</article>
 
 	</body>
 </html>

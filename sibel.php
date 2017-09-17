@@ -12,6 +12,29 @@
 			<h1>Sibel Spahija</h1>
 		</header>
 
+		<nav class="menu">
+
+			<ul>
+				<li>
+					<a href="index.php">Home</a>	
+				</li>
+
+				<li>
+					<a href="zhengliang.php">Zhengliang</a>
+				</li>
+
+				<li>
+					<a href="mojin.php">Mojin</a>	
+				</li>
+
+				<li>
+					<a class="current" href="sibel.php">Sibel</a>
+				</li>
+
+			</ul>
+
+		</nav>
+
 		<article>
 
 			<h2>About Me</h2>
