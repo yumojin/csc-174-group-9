@@ -41,13 +41,13 @@
 
 		<h3>Zhengliang Jiang</h3>
 		
-		<p>My name is Zhengliang Jiang. I was born and grew up in China. I am a senior majoring in computer science.</p>
+		<p>My name is Zhengliang. I was born and raised in China. I am currently studying computer science major with an emphasis on human computer interaction at the University of Rochester as a senior. After graduation, I plan to go to a graduate school to pursuit a higher degree.</p>
 		<a href="zhengliang.php"> Read More...</a>
 
 
 		<h3>Mojin Yu</h3>
 
-		<p>My name is Mojin Yu. I am currently an undergraduate student at the University of Rochester, majoring in Digital Media Studies and Psychology. This page shows a culmination of my work done in DMS 103.</p>
+		<p>My name is Mojin Yu. I am currently an undergraduate student at the University of Rochester, majoring in Digital Media Studies and Psychology. I have great passion in art, music and new media. Currenly I'm working for the History Department as a reserach assitent.</p>
 		<a href="mojin.php"> Read More...</a>
 
 
