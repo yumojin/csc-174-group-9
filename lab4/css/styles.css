@@ -118,14 +118,17 @@ a:hover{
     .zhengliang {
         float: none;
         width: auto;
+	padding-left: 10px;
     }
     .mojin {
         float: none;
         width: auto;
+	padding-left: 10px;
     }
     .sibel {
         float: none;
         width: auto;
+	padding-left: 10px;
     }
 }
 
