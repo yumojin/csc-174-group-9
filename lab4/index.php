@@ -38,7 +38,7 @@
 
 		<article>
 
-		<h2>Introducing our group members</h2>
+		<h2>Introducing Our Group Members</h2>
 		
 		<div class = row>
 		<div class = zhengliang>
