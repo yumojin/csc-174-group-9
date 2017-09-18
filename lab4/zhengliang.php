@@ -46,7 +46,7 @@
                         <h3>University of Rochester</h3>
                         <ul>
                               <li>Class of 2018</li>
-                              <li>Bachelor of Arts, International Relations && Computer Science </li>
+                              <li>Bachelor of Arts, International Relations & Computer Science </li>
                         </ul>
                   
                   
@@ -78,7 +78,7 @@
                                     <li>Performing data analysis using Matlab, Excel, R language</li>
                                     <li>Programming in Java, C</li>
                                     <li>Mobile app development using Android Studio</li>
-                                    <li>· Fluency in English; Native speaker in Mandarin Chinese; Good command of Japanese</li>
+                                    <li>Fluency in English; Native speaker in Mandarin Chinese; Good command of Japanese</li>
                               </ul>
                         
             </article>

@@ -9,8 +9,7 @@
 	<body>
 	<div class="container">
 		<header>
-			<h1>Group 9</h1>
-			<div>Student Profiles</div>
+			<h1>Group 9 Student Profiles</h1>
 		</header>
 
 		<nav class="menu">
