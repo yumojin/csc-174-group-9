@@ -16,6 +16,7 @@ h1{
 h2{
 	font-style: italic;
 	color: #3a4660;
+	text-align: center;
 }
 
 h3{
@@ -44,7 +45,7 @@ a{
 
 .banner img{
 	display: block;
-	margin: 0 auto;
+	margin: auto;
     width: 100%;
     height: 100%;
     max-width: 1200px;
@@ -54,21 +55,33 @@ a{
 /* ********************
       navigation
  ********************** */
+ .menu {
+	margin-top: 5px;
+	margin-bottom: 5px;
+	text-align: center;
+	width: auto;
+}
 
 .menu ul {
     list-style-type: none;
     margin-bottom: 5px;
     padding: 0;
     overflow: hidden;
+
 }
 
 .menu li {
-    float: left;
-    font-size: larger;
+	display: table-cell;
+	border: 1px #FAEBD7;
+	width: 8%;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	padding-left: 0px;
+	padding-right: 0px;
 }
 
 .menu li a {
-    display: block;
+    font-size: 20px;
     color: black;
     text-align: center;
     padding: 14px 16px;
@@ -80,7 +93,7 @@ a{
 }
 
 .menu li a.current{
-   color: white;
+   color: #ed8a63;
    background: #3a4660;
 }
 
@@ -97,6 +110,7 @@ a{
     float: left;
     width: 25%;
     padding-left: 50px;
+    text-align: center;
 }
 
 .row:after {
@@ -116,4 +130,5 @@ a{
 		float: none;
 		width: auto;
 		padding-left: 10px
-	}
+
+}
