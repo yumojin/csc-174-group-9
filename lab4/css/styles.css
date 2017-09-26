@@ -63,7 +63,7 @@ a{
 }
 
 .menu ul {
-    list-style-type: none;
+   	list-style-type: none;
     margin-bottom: 5px;
     padding: 0;
     overflow: hidden;
@@ -71,17 +71,12 @@ a{
 }
 
 .menu li {
-	display: table-cell;
-	border: 1px #FAEBD7;
-	width: 8%;
-	padding-top: 5px;
-	padding-bottom: 5px;
-	padding-left: 0px;
-	padding-right: 0px;
+	float: left;
+    font-size: larger;
 }
 
 .menu li a {
-    font-size: 20px;
+    display: block;
     color: black;
     text-align: center;
     padding: 14px 16px;
@@ -93,7 +88,7 @@ a{
 }
 
 .menu li a.current{
-   color: #ed8a63;
+   color: white;
    background: #3a4660;
 }
 
