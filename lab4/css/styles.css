@@ -1,6 +1,6 @@
 body{
 	background-color: #c9af98;
-	font-family: Palatino, Volkorn, Garamond, sans-serif;
+	font-family: Geneva, Tahoma, Verdana, sans-serif;
 	
 }
 
@@ -38,17 +38,23 @@ article, aside{
 		
 }
 
-a {
+a{
 	color: #B22222;
 }
 
 .banner img{
-	width: 100%;
+	display: block;
+	margin: 0 auto;
+    width: 100%;
+    height: 100%;
+    max-width: 1200px;
+    vertical-align: middle;
 }
 
 /* ********************
       navigation
  ********************** */
+
 .menu ul {
     list-style-type: none;
     margin-bottom: 5px;
@@ -81,29 +87,15 @@ a {
 /* ********************
       Index Page Layout
  ********************** */
+
 .container{
     margin: 0 auto;
     width:70%;
 }
 
-.zhengliang{
-
+.summary{
     float: left;
     width: 25%;
-    padding-left: 50px;
-
-}
-.mojin{
-
-    float: left;
-    width: 25%;
-    padding-left: 50px;
-
-}
-.sibel{
-
-    float: left;
-    width: 30%;
     padding-left: 50px;
 }
 
@@ -113,24 +105,15 @@ a {
     clear: both;
 }
 
+
 /*	*************************************
 	Media Queries
 ************************************* */
 
 @media (max-width:1000px) {
-    .zhengliang {
-        float: none;
-        width: auto;
-	padding-left: 10px;
-    }
-    .mojin {
-        float: none;
-        width: auto;
-	padding-left: 10px;
-    }
-    .sibel {
-        float: none;
-        width: auto;
-	padding-left: 10px;
-    }
-}
+
+	.summary{
+		float: none;
+		width: auto;
+		padding-left: 10px
+	}
