@@ -1,8 +1,1 @@
-<h2>Skills</h2>
-    <ul>
-          <li>Microsoft Office: Word, Excel, Powerpoint</li>
-          <li>Performing data analysis using Matlab, Excel, R language</li>
-          <li>Programming in Java, C</li>
-          <li>Mobile app development using Android Studio</li>
-          <li>Fluency in English; Native speaker in Mandarin Chinese; Good command of Japanese</li>
-    </ul>
+<p>My name is Zhengliang. I was born and raised in China. I am currently studying computer science major with an emphasis on human computer interaction at the University of Rochester as a senior. After graduation, I plan to go to a graduate school to pursuit a higher degree.</p>

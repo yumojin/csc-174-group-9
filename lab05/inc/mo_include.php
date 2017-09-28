@@ -1,10 +1,1 @@
-<h2>Skills</h2>
-
-	<ul>
-		<li>Adobe Photoshop, Illustrator and InDesign</li>
-		<li>Python, HTML, CSS and JavaScript</li>
-		<li>Audio editing software (Pro Tools and Garage Band)</li>
-		<li>Video editing software (Final Cut Pro and Adobe Premiere)</li>
-		<li>Website building platforms (Weebly, Wix and WordPress)</li>
-		<li>ArcGIS online</li>
-	</ul>
+<p>My name is Mojin Yu. I am currently an undergraduate student at the University of Rochester, majoring in Digital Media Studies and Psychology. I have great passion in art, music and new media. Currenly I'm working for the History Department as a reserach assistant.</p>
