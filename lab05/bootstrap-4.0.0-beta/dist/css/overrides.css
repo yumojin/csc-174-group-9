@@ -1,0 +1,66 @@
+/* GLOBAL STYLES
+-------------------------------------------------- */
+.resume{
+  padding: 50px;
+}
+
+.resume h1{
+  text-align: center;
+  text-decoration: underline #A9A9A9;
+}
+
+.resume h3{
+  font-style: italic;
+  color: #696969;
+}
+
+.hometown_text{
+  width: 50%;
+  float: left;
+  padding-right: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.hometown_pic{
+  position: relative;
+  text-align: center;
+  width: 50%;
+  float: left;
+  padding-left: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.hometown{
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+h2{
+  clear: left;
+}
+
+.resizable { width: 100%;}
+
+
+/* RESPONSIVE CSS
+-------------------------------------------------- */
+
+@media (max-width: 768px) {
+    .resume h1{
+    text-align: left;
+  }
+}
+
+@media (max-width: 1150px){
+  .hometown_text{
+    float: none;
+    width: 100%
+  }
+  .hometown_pic{
+    float: none;
+    width: 100%;
+    padding: 10px;
+    }
+}
