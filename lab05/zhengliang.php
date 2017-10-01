@@ -51,7 +51,7 @@
                </div><!--hometown_text-->
                <div class="hometown_pic">
                   <figure>
-                     <img class="resizable" src="images/prizren.jpg" alt="Prizren, Kosovo">
+                     <img class="resizable" src="images/shanghai.jpg" alt="Lujiazui, Shanghai">
                      <figcaption>City of Prizren, Kosovo</figcaption>
                   </figure>
                </div><!--.hometown_pic-->
