@@ -47,7 +47,7 @@
             <div class="hometown">
                <div class="hometown_text">
                   <h2>My Hometown</h2>
-                  <p>"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."</p>
+                  <p>As the largest and most prosperous city in the nation, Shanghai is the economic, financial and cultural center of China, while Beijing is the political heart. The pace of development here is unbelievable. The newest area of the city, Pudong, is almost unrecognizable from the way it was when development began here. Four of the most impressive city landmarks can be found here, the Jinmao Tower, Oriental TV Tower, Shanghai World Financial Center and the newest Shanghai Center, which was completed and opened in 2016. </p>
                </div><!--hometown_text-->
                <div class="hometown_pic">
                   <figure>
