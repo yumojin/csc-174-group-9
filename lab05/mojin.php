@@ -46,7 +46,9 @@
             <div class="hometown">
                <div class="hometown_text">
                   <h2>My Hometown</h2>
-                  <p>"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."</p>
+                  <p>Haidian was originally a village outside of Beijing's Inner City. It was first built in the Yuan Dynasty and became one of the eight major business areas of the capital during the Qing Dynasty and was the seat of such old shops as Lotus White, Quanjude and Hongbin House. The famed Old Summer Palace and Summer Palace, two grand imperial gardens are also among its reputed features. It became a university district after the building of the Tsinghua University and Yenching University campus in the early twentieth century. It is mentioned in Lao She's novel Camel Xiangzi as an academic village for students. After the foundation of the People's Republic, it was deliberately developed as a university area, with many of the Yan'an institutions moving there. It officially became an administrative district in June 1954. Since the reform and opening up, it has become the centre of China's IT industry. In the words of Time magazine:
+                  <blockquote>“  Like Paris' Champs Elysées or New York's Broadway, Haidian is a celebration of a national myth: China's ability to change itself and become, once again, great among nations. ”</blockquote>
+                  During the later half of the 1990s, out of the Beijing districts, Haidian had the highest per capita GDP. During that period the GDP of Haidian District grew by double digits each year.</p>
                </div><!--hometown_text-->
                <div class="hometown_pic">
                   <figure>
