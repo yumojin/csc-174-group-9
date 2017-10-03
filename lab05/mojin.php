@@ -54,7 +54,7 @@
                <div class="hometown_pic">
                   <figure>
                      <img class="resizable" src="images/haidian.jpg" alt="Haidian District, Beijing">
-                     <figcaption>City of Prizren, Kosovo</figcaption>
+                     <figcaption>Haidian District, Beijing</figcaption>
                   </figure>
                </div><!--.hometown_pic-->
             </div><!--.hometown-->
