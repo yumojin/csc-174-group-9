@@ -47,7 +47,7 @@
             <div class="hometown">
                <div class="hometown_text">
                   <h2>My Hometown</h2>
-                  <p>"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."</p>
+                  <p>Throughout history Prizren has played an important role in the region which was first settled in Illyrian times. The town hosted a handful of empires, with Byzantine and Ottoman architecture leaving the most distinctive marks on the cityscape. Ottoman vibes can be felt especially around Shadervan – near this main, cobbled square you’ll find a great selection of bars and restaurants, as well as the lovely Sinan Pasha Mosque and the Old Stone Bridge, which dates back to the 16th century but was reconstructed in the 1980s after it was destroyed by a flood. There’s also the Prizren League House, of particular importance for Albanian history as the site of the most significant attempt to unite all Albanians in the region within one state.</p>
                </div><!--hometown_text-->
                <div class="hometown_pic">
                   <figure>
