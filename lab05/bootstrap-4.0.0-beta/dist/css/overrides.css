@@ -25,6 +25,7 @@
 .hometown_pic{
   position: relative;
   text-align: center;
+  vertical-align: middle;
   width: 50%;
   float: left;
   padding-left: 10px;
@@ -38,8 +39,8 @@
 }
 
 html {
-    position: relative;
-    min-height: 100%;
+  position: relative;
+  min-height: 100%;
 }
 
 body {
