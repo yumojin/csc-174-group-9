@@ -1,17 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
    <head>
-      <meta charset="utf-8">
-      <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-      <meta name="description" content="CSC 174 Assignment 5">
-      <meta name="author" content="Group Shanghai">
+      <?php include("inc/meta.php"); ?>
       <title>Sibel Spahija</title>
-      <!-- Bootstrap core CSS -->
-      <link href="bootstrap-4.0.0-beta/dist/css/bootstrap.css" rel="stylesheet">
-      <!-- Custom styles for this "Carousel" template taken from Bootstrap -->
-      <link href="bootstrap-4.0.0-beta/docs/4.0/examples/carousel/carousel.css" rel="stylesheet">
-      <!-- Our own custom CSS -->
-      <link href="bootstrap-4.0.0-beta/dist/css/overrides.css" rel="stylesheet">
+      <?php include("inc/links.php"); ?>
    </head>
    <body>
       <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
@@ -106,16 +98,6 @@
       <footer>
          <div>© This web site is created by Group Shanghai for CSC 174 Assignment 5.</div>
       </footer>
-      <!-- Bootstrap core JavaScript
-         ================================================== -->
-      <!-- Placed at the end of the document so the pages load faster -->
-      <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
-      <script>window.jQuery || document.write('<script src="bootstrap-4.0.0-beta/assets/js/vendor/jquery.min.js"><\/script>')</script>
-      <script src="bootstrap-4.0.0-beta/assets/js/vendor/popper.min.js"></script>
-      <script src="bootstrap-4.0.0-beta/dist/js/bootstrap.min.js"></script>
-      <!-- Just to make our placeholder images work. Don't actually copy the next line! -->
-      <script src="bootstrap-4.0.0-beta/assets/js/vendor/holder.min.js"></script>
-      <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
-      <script src="bootstrap-4.0.0-beta/assets/js/ie10-viewport-bug-workaround.js"></script>
+      <?php include("inc/scripts.php"); ?>
    </body>
 </html>
