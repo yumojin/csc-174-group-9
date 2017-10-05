@@ -6,28 +6,7 @@
       <?php include("inc/links.php"); ?>
    </head>
    <body>
-      <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
-         <a class="navbar-brand" href="index.php">Group Shanghai</a>
-         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
-         <span class="navbar-toggler-icon"></span>
-         </button>
-         <div class="collapse navbar-collapse" id="navbarCollapse">
-            <ul class="navbar-nav mr-auto">
-               <li class="nav-item">
-                  <a class="nav-link" href="index.php">Home</a>
-               </li>
-               <li class="nav-item">
-                  <a class="nav-link" href="zhengliang.php">Zhengliang</a>
-               </li>
-               <li class="nav-item">
-                  <a class="nav-link" href="sibel.php">Sibel</a>
-               </li>
-               <li class="nav-item active">
-                  <a class="nav-link" href="mojin.php">Mojin<span class="sr-only">(current)</span></a>
-               </li>
-            </ul>
-         </div>
-      </nav>
+      <?php include ("inc/nav.php"); ?>
       <div class="container resume">
          <header>
             <h1>Mojin Yu</h1>
@@ -35,12 +14,12 @@
          <article>
             <h2>About Me</h2>
             <?php include("inc/mo_include.php"); ?>
-
             <div class="hometown">
                <div class="hometown_text">
                   <h2>My Hometown</h2>
                   <p>Haidian was originally a village outside of Beijing's Inner City. It was first built in the Yuan Dynasty and became one of the eight major business areas of the capital during the Qing Dynasty and was the seat of such old shops as Lotus White, Quanjude and Hongbin House. The famed Old Summer Palace and Summer Palace, two grand imperial gardens are also among its reputed features. After the foundation of the People's Republic, it was deliberately developed as a university area. It officially became an administrative district in June 1954 and has become the centre of China's IT industry. In the words of Time magazine:
-                  <blockquote>“  Like Paris' Champs Elysées or New York's Broadway, Haidian is a celebration of a national myth: China's ability to change itself and become, once again, great among nations. ”</blockquote></p>
+                  <blockquote>“  Like Paris' Champs Elysées or New York's Broadway, Haidian is a celebration of a national myth: China's ability to change itself and become, once again, great among nations. ”</blockquote>
+                  </p>
                </div><!--hometown_text-->
                <div class="hometown_pic">
                   <figure>
@@ -49,7 +28,6 @@
                   </figure>
                </div><!--.hometown_pic-->
             </div><!--.hometown-->
-
             <h2>Experience</h2>
             <h3>Summer Program Assistant | University of Rochester | 2017 Jul - Sep</h3>
             <p>Job responsibilities include: doing research and collecting historical data; mapping research findings using ArcGIS online; designing posters and map print layout.</p>
@@ -72,9 +50,7 @@
             </ul>
          </aside>
       </div><!--.container resume-->
-      <footer>
-         <div>© This web site is created by Group Shanghai for CSC 174 Assignment 5.</div>
-      </footer>
+      <?php include("inc/footer.php"); ?>
       <?php include("inc/scripts.php"); ?>
    </body>
 </html>

@@ -6,28 +6,7 @@
       <?php include("inc/links.php"); ?>
    </head>
    <body>
-      <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
-         <a class="navbar-brand" href="index.php">Group Shanghai</a>
-         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
-         <span class="navbar-toggler-icon"></span>
-         </button>
-         <div class="collapse navbar-collapse" id="navbarCollapse">
-            <ul class="navbar-nav mr-auto">
-               <li class="nav-item">
-                  <a class="nav-link" href="index.php">Home</a>
-               </li>
-               <li class="nav-item">
-                  <a class="nav-link" href="zhengliang.php">Zhengliang</a>
-               </li>
-               <li class="nav-item active">
-                  <a class="nav-link" href="sibel.php">Sibel<span class="sr-only">(current)</span></a>
-               </li>
-               <li class="nav-item">
-                  <a class="nav-link" href="mojin.php">Mojin</a>
-               </li>
-            </ul>
-         </div>
-      </nav>
+      <?php include ("inc/nav.php"); ?>
       <div class="container resume">
          <header>
             <h1>Sibel Spahija</h1>
@@ -35,11 +14,10 @@
          <article>
             <h2>About Me</h2>
             <?php include("inc/si_include.php"); ?>
-
             <div class="hometown">
                <div class="hometown_text">
                   <h2>My Hometown</h2>
-                  <p>Throughout history Prizren has played an important role in the region which was first settled in Illyrian times. The town hosted a handful of empires, with Byzantine and Ottoman architecture leaving the most distinctive marks on the cityscape. Ottoman vibes can be felt especially around Shadervan – near this main, cobbled square you’ll find a great selection of bars and restaurants, as well as the lovely Sinan Pasha Mosque and the Old Stone Bridge, which dates back to the 16th century but was reconstructed in the 1980s after it was destroyed by a flood. There’s also the Prizren League House, of particular importance for Albanian history as the site of the most significant attempt to unite all Albanians in the region within one state.</p>
+                  <p>Throughout history Prizren has played an important role in the region which was first settled in Illyrian times. The town hosted a handful of empires, with Byzantine and Ottoman architecture leaving the most distinctive marks on the cityscape. Ottoman vibes can be felt especially around Shadervan – near this main, cobbled square you’ll find a great selection of bars and restaurants, as well as the lovely Sinan Pasha Mosque and the Old Stone Bridge, which dates back to the 16th century but was reconstructed in the 1980s after it was destroyed by a flood. There’s also the Prizren League House, of particular importance for Albanian history as the site of the most significant attempt to unite all Albanians in the region within one state.</p>
                </div><!--hometown_text-->
                <div class="hometown_pic">
                   <figure>
@@ -86,7 +64,6 @@
                <li>Won first place after competing with over 1,000 contestants from 130 different countrie</li>
             </ul>
          </article>
-            
          <aside>
             <h2>Skills</h2>
             <ul>
@@ -95,9 +72,7 @@
             </ul>
          </aside>
       </div><!--.container resume-->
-      <footer>
-         <div>© This web site is created by Group Shanghai for CSC 174 Assignment 5.</div>
-      </footer>
+      <?php include("inc/footer.php"); ?>
       <?php include("inc/scripts.php"); ?>
    </body>
 </html>
