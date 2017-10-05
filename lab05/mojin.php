@@ -17,9 +17,8 @@
             <div class="hometown">
                <div class="hometown_text">
                   <h2>My Hometown</h2>
-                  <p>Haidian was originally a village outside of Beijing's Inner City. It was first built in the Yuan Dynasty and became one of the eight major business areas of the capital during the Qing Dynasty and was the seat of such old shops as Lotus White, Quanjude and Hongbin House. The famed Old Summer Palace and Summer Palace, two grand imperial gardens are also among its reputed features. After the foundation of the People's Republic, it was deliberately developed as a university area. It officially became an administrative district in June 1954 and has become the centre of China's IT industry. In the words of Time magazine:
+                  <p>Haidian was originally a village outside of Beijing's Inner City. It was first built in the Yuan Dynasty and became one of the eight major business areas of the capital during the Qing Dynasty and was the seat of such old shops as Lotus White, Quanjude and Hongbin House. The famed Old Summer Palace and Summer Palace, two grand imperial gardens are also among its reputed features. After the foundation of the People's Republic, it was deliberately developed as a university area. It officially became an administrative district in June 1954 and has become the centre of China's IT industry. In the words of Time magazin: </p>
                   <blockquote>“  Like Paris' Champs Elysées or New York's Broadway, Haidian is a celebration of a national myth: China's ability to change itself and become, once again, great among nations. ”</blockquote>
-                  </p>
                </div><!--hometown_text-->
                <div class="hometown_pic">
                   <figure>
